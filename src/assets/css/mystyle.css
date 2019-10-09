@@ -1,0 +1,40 @@
+#Nav {
+  padding: 0.5rem;
+}
+/* #N_q_but {
+  margin-top: 10px;
+  float: right;
+  position: relative;
+} */
+#N_title {
+  align-content: center;
+  position: relative;
+}
+#logo {
+  margin-top: 3px;
+  width: 130px;
+  height: 35px;
+  float: left;
+  position: relative;
+}
+.col-form-label {
+  float: left;
+}
+.container-fluid {
+  padding: 0px;
+}
+#q_but {
+  padding: 0px;
+  border: none;
+}
+#qus_body {
+  margin-top: 5px;
+  font-size: 20px;
+  float: left;
+}
+.btn-danger {
+  float: right;
+}
+span {
+  padding: 5%;
+}
